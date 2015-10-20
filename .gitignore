@@ -1,0 +1,17 @@
+.kitchen/
+.kitchen.local.yml
+.vagrant
+Berksfile.lock
+Gemfile.lock
+cloud-init.txt
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+.bundle
+.cache
+.idea/
+.vagrant
+Vagrantfile.old
